@@ -53,5 +53,7 @@ We welcome contributions from students, researchers, and collaborators.
 ---
 
 ## 🏫 Affiliation
-Faculty of Electrical and Electronic Engineering (FKEE)  
-Universiti Tun Hussein Onn Malaysia (UTHM)
+Faculty of Electrical and Electronic Engineering (FKEE) — [Visit Website](https://fkee.uthm.edu.my)  
+Universiti Tun Hussein Onn Malaysia (UTHM) — [Visit Website](https://www.uthm.edu.my)  
+
+📧 For any enquiries, please contact **Ts. Mohamad Fauzi bin Zakaria** at [mfauzi@uthm.edu.my](mailto:mfauzi@uthm.edu.my)
